@@ -2,7 +2,7 @@
 Call OpenAI API (GPT3) From a .NET C# Application And Generate Text
 
 # I decided To Ask The AI, What will happen in 2030?!
-So I created a small .Net C# Project and Connected it with OpenAI GPT-3 Model to ask it any questions!
+I created a tiny .Net C# console app and Connected it with OpenAI GPT-3 to ask it any question!
 What is Open AI?
 
 OpenAI is an AI research and deployment company. and they recently gave access to their API so any developed can benefit from their powerful AI models
